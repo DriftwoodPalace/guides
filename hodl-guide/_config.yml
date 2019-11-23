@@ -1,8 +1,0 @@
-#theme: jekyll-theme-minimal
-remote_theme: pmarsceill/just-the-docs
-search_enabled: true
-aux_links:
-    "Issues / Knowledge Base":
-      - "https://github.com/DriftwoodPalaceGuides/issues"
-    "Contribute! Source on GitHub":
-      - "https://github.com/DriftwoodPalace/Guides/"
