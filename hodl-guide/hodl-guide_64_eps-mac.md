@@ -7,6 +7,8 @@
 
 *Difficulty: medium*
 
+**You can find an updated version of the guide here: https://driftwoodpalace.github.io/Hodl-Guide/hodl-guide_64_eps-mac.html*
+
 *Note: I am not normally a Mac user, any suggestions for improvements to the guide is appreciated.*
 
 Electrum Personal Server will connect your Bitcoin full node to Electrum. This will make it possible to use all functionality in Electrum (Hardware Wallet support, easy multi-sig setup and more) while still validating and broadcasting everything with your full node.
